@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page title</title>
+<header>
+<h1>My First Heading with h1 tag</h1>
+</header>
+</head>
+<body>
+<p>My first paragraph </p>
+<div>
+This and h1-h6 lines are within &ltdiv&gt element
+kh1>This line is used with h1 </h1>
+<h2>This 1ine is used with h2 </h2>
+<h3>This line is used with h3 </h3>
+kh4>This line is used with h4 </h4>
+<h5>This line is used with h5 </h5>
+<h6>This line is used with h6 </h6>
+</div>
+</body>
+</html>
